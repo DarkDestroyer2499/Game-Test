@@ -1,0 +1,11 @@
+Go to build folder, run vs project, press F5;
+
+"A" -> LEFT 
+"D" -> RIGHT
+
+Feature: you can boost the ball hitting it with corner of your paddle.
+
+
+Looking for my code? It's everywhere.
+
+Looking for game algorithm? It's in main.cpp. Other code you can find using file search "GAME CODE".
